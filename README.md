@@ -6,8 +6,6 @@ No tunnel. No server anywhere. No account. Nothing leaves your machine
 except the traffic that was always going to Roblox and Discord anyway —
 at your real speed, with your real ping.
 
-![five coloured switches, a green dot, a live log](docs/screenshot.png)
-
 ---
 
 ## Why this exists
